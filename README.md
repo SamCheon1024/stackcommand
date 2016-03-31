@@ -18,3 +18,8 @@ Now you can use a number of methods
     cmdstack.clearTimer(); // stops the current stack indefinitely
     
 I found this functionality to be quite useful, and hopefully you will as well.  Let me know if you have any questions at hamdiggy@gmail.com
+
+-This
+-A
+-Be
+-Hahaha
